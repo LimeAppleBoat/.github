@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "test",
+    "name": "Jab125",
+    "cosmetics": [
+      "spinning_penguins",
+      {
+        "id": "exclamation_mark",
+        "enchantable": true
+      }
+    ]
+    "enchantable": false
+  }
+]
