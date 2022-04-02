@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "dev",
+    "name": "Jab125",
+    "cosmetics": [
+      "spinning_penguins",
+      {
+        "id": "exclamation_mark",
+        "enchantable": false
+      }
+    ],
+    "enchantable": true
+  },
+  {
     "uuid": "2fdb9174-c6d7-4842-8172-7d009a30fe6a",
     "name": "Jab125",
     "cosmetics": [
