@@ -1,13 +1,14 @@
 [
   {
     "uuid": "dev",
-    "name": "Jab125",
+    "name": "Dev",
     "cosmetics": [
       "spinning_penguins",
       {
         "id": "exclamation_mark",
         "enchantable": false
       }
+      "blanketcon_cape"
     ],
     "enchantable": true
   },
