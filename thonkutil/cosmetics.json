@@ -8,7 +8,8 @@
         "id": "exclamation_mark",
         "enchantable": false
       },
-      "blanketcon_cape"
+      "blanketcon_cape",
+      "grifferthrydwy_cape"
     ],
     "enchantable": true
   },
@@ -21,6 +22,14 @@
         "id": "exclamation_mark",
         "enchantable": true
       }
+    ],
+    "enchantable": false
+  },
+  {
+    "uuid": "20dfb1e7-c15c-49bf-b25e-8696454c52f9",
+    "name": "Grifferthrydwy",
+    "cosmetics": [
+      "grifferthrydwy_cape"
     ],
     "enchantable": false
   }
